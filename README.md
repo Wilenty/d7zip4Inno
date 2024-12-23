@@ -20,4 +20,4 @@ This plugin supports all archives that 7-zip plugin supports, even the password 
 
 https://github.com/ip7z/7zip
 
-https://github.com/geoffsmith82/d7zip
+https://github.com/zedalaye/d7zip
